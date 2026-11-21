@@ -1,8 +1,10 @@
 # AURELIA — The City Above the Clouds
 
-![bounty](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)
-![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/cuanhij/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)
-![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/cuanhij/the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)
+[![make.fun · the-poster-for-a-place-that-i-2-20261121-0539](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![rank](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/cuanhij/the-poster-for-a-place-that-i-2-20261121-0539/rank.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+[![reward](https://make.fun/badge/the-poster-for-a-place-that-i-2-20261121-0539/cuanhij/the-poster-for-a-place-that-i-2-20261121-0539/reward.svg)](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539?utm_source=github&utm_medium=readme&utm_campaign=the-poster-for-a-place-that-i-2-20261121-0539)
+
+Built for the [make.fun](https://make.fun) bounty [The Poster for a Place That Isn't There](https://make.fun/bounty/the-poster-for-a-place-that-i-2-20261121-0539).
 
 A travel poster for a place that does not exist: **Aurelia**, a city that
 floats above a sea of clouds. Its landmark is the Beacon of Aurelia, a
